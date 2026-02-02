@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Obialor
 ======================================================================================================================================
 
-UI/UX Designer
+Computer Systems Technician & Web Solutions Developer
 --------------
 
 I'm a UI/UX Designer and a web developer with a background in electronic engineering and a passion for creating clean, user-friendly designs. I'm currently learning Python, Adobe XD, and Illustrator, and I’m open to internships and remote opportunities that help me grow and contribute.
